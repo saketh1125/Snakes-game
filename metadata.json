@@ -1,0 +1,5 @@
+{
+  "name": "Snake Arcade",
+  "description": "A dark neon arcade web app featuring a Snake game and a procedural music player.",
+  "requestFramePermissions": []
+}
