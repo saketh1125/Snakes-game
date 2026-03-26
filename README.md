@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/b80828e4-1239-45a4-a427-123ce
 3. Run the app:
    `npm run dev`
 # Snakes-game
+# Snakes-and-beats
