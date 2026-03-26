@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/b80828e4-1239-45a4-a427-123ce
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+# Snakes-game
